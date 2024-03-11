@@ -1,0 +1,26 @@
+body{
+    background-image: url('IMG20231227231405.jpg');
+    color: white;
+    background-position: center;
+    background-size: cover;
+    }
+
+a{
+    color:gold;
+    text-align: start;
+    position: absolute;
+    top: 2px;
+    }
+
+h1{
+    border-style: double;
+    }
+p.Su{
+    border-bottom: dotted;
+    margin: 50px 50px 50px 50px;
+    }
+p.Pa{
+    border-bottom: 100px solid;
+    border-right: 100px solid;
+    margin: 25px 25px 25px 25px;
+    }
